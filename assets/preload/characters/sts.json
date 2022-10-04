@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				196,
+				-5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-36
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				35
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				-12
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "laugh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				476,
+				45
+			],
+			"anim": "god",
+			"fps": 24,
+			"name": "god",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sts",
+	"position": [
+		50,
+		490
+	],
+	"healthicon": "fart",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		41,
+		255
+	],
+	"camera_position": [
+		-80,
+		-90
+	],
+	"sing_duration": 6,
+	"scale": 2
+}

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-270,
+				-380
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "YCR Down"
+		},
+		{
+			"offsets": [
+				-300,
+				-319
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "YCR Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-162,
+				-335
+			],
+			"anim": "Laugh",
+			"fps": 24,
+			"name": "Laugh",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-298,
+				-332
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "YCR Left"
+		},
+		{
+			"offsets": [
+				-210,
+				-283
+			],
+			"loop": false,
+			"fps": 29,
+			"anim": "singUP",
+			"indices": [],
+			"name": "YCR Up"
+		},
+		{
+			"offsets": [
+				-200,
+				-320
+			],
+			"loop": false,
+			"fps": 21,
+			"anim": "idle",
+			"indices": [],
+			"name": "YCR Idle"
+		},
+		{
+			"offsets": [
+				-162,
+				-335
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ycr-Sonic",
+	"position": [
+		-220,
+		40
+	],
+	"healthicon": "ycr",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		95
+	],
+	"camera_position": [
+		60,
+		0
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1.6
+}

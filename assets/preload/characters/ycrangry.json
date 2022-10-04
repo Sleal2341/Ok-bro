@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-130
+			],
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "YCR Idle Angry"
+		},
+		{
+			"offsets": [
+				-200,
+				-140
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "YCR Left Angry"
+		},
+		{
+			"offsets": [
+				-460,
+				-360
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "YCR Down Angy"
+		},
+		{
+			"offsets": [
+				-179,
+				-119
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "YCR Up Angry"
+		},
+		{
+			"offsets": [
+				-230,
+				-138
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "YCR Right Angry"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ycr-Sonic-Angry",
+	"position": [
+		-520,
+		-40
+	],
+	"healthicon": "ycr",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		100,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}
