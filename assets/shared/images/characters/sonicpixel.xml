@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sonicpixel.png">
+<SubTexture name="idle0000" x="224" y="0" width="112" height="168" frameX="-40" frameY="-24" frameWidth="200" frameHeight="200" />
+<SubTexture name="idle0001" x="448" y="168" width="112" height="164" frameX="-40" frameY="-28" frameWidth="200" frameHeight="200" />
+<SubTexture name="idle0002" x="0" y="344" width="112" height="164" frameX="-40" frameY="-28" frameWidth="200" frameHeight="200" />
+<SubTexture name="idle0003" x="112" y="344" width="112" height="164" frameX="-40" frameY="-28" frameWidth="200" frameHeight="200" />
+<SubTexture name="idle0004" x="224" y="344" width="112" height="164" frameX="-40" frameY="-28" frameWidth="200" frameHeight="200" />
+<SubTexture name="idle0005" x="336" y="0" width="112" height="168" frameX="-40" frameY="-24" frameWidth="200" frameHeight="200" />
+<SubTexture name="down0000" x="336" y="344" width="112" height="164" frameX="-40" frameY="-28" frameWidth="200" frameHeight="200" />
+<SubTexture name="down0001" x="0" y="176" width="108" height="168" frameX="-44" frameY="-24" frameWidth="200" frameHeight="200" />
+<SubTexture name="up0000" x="0" y="0" width="112" height="176" frameX="-36" frameY="-16" frameWidth="200" frameHeight="200" />
+<SubTexture name="up0001" x="112" y="0" width="112" height="172" frameX="-36" frameY="-20" frameWidth="200" frameHeight="200" />
+<SubTexture name="right0000" x="108" y="176" width="104" height="168" frameX="-48" frameY="-24" frameWidth="200" frameHeight="200" />
+<SubTexture name="right0001" x="212" y="176" width="108" height="168" frameX="-44" frameY="-24" frameWidth="200" frameHeight="200" />
+<SubTexture name="left0000" x="320" y="176" width="124" height="168" frameX="-28" frameY="-24" frameWidth="200" frameHeight="200" />
+<SubTexture name="left0001" x="448" y="0" width="120" height="168" frameX="-32" frameY="-24" frameWidth="200" frameHeight="200" />
+</TextureAtlas>

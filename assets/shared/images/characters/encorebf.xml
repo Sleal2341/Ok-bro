@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="encorebf.png" width="1920" height="2074">
+  <SubTexture name="BF NOTE LEFT000" x="0" y="0"  width="534" height="511" frameX="-226" frameY="-242" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="BF NOTE DOWN000" x="0" y="511"  width="576" height="476" frameX="-212" frameY="-262" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="BF NOTE DOWN001" x="534" y="0"  width="569" height="484" frameX="-218" frameY="-255" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="BF NOTE UP000" x="576" y="484"  width="479" height="559" frameX="-261" frameY="-221" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="BF NOTE UP001" x="0" y="987"  width="486" height="554" frameX="-257" frameY="-225" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="BF NOTE LEFT001" x="486" y="1043"  width="533" height="507" frameX="-232" frameY="-245" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="BF NOTE RIGHT000" x="0" y="1541"  width="451" height="526" frameX="-275" frameY="-237" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="BF NOTE RIGHT001" x="1019" y="1043"  width="459" height="518" frameX="-267" frameY="-244" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="BF idle dance004" x="451" y="1550"  width="443" height="524" frameX="-280" frameY="-227" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="BF idle dance003" x="1478" y="1043"  width="442" height="522" frameX="-279" frameY="-228" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="BF idle dance000" x="894" y="1561"  width="457" height="502" frameX="-272" frameY="-249" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="BF idle dance001" x="1351" y="1565"  width="445" height="507" frameX="-278" frameY="-244" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="BF idle dance002" x="1103" y="0"  width="442" height="520" frameX="-279" frameY="-231" frameWidth="1000" frameHeight="1000"/>
+</TextureAtlas>
